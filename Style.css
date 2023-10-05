@@ -271,9 +271,9 @@ button.calculate:hover{
     color: #f22828;
 }
 
-@media (max-width: 700px){
+@media screen (max-width: 600px){
     .box{
-        width: 380px;
+        width: 300px;
     }
     .input label{
         font-size: 18px;
@@ -285,6 +285,6 @@ button.calculate:hover{
         font-size: 24px;
     }
     .modal-content{
-        width:380px
+        width:300px
     }
 }
